@@ -13,27 +13,16 @@
 
 # 💻 Tech Stack
 
-* Python
-* Java
-* C
-* MySQL
-* MongoDB
-* HTML5
-* Git & GitHub
-* Django REST Framework
-* Power BI
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge\&logo=pytorch\&logoColor=white)
 
 
-# 🚀 Featured Projects
 
-* Aquaculture Predictive Modeling
-* Data Visualization Dashboards
-* Python Automation Projects
-* Machine Learning Experiments
 
-# 📈 Currently Learning
-
-* Advanced Power BI
-* Data Analytics
-* Artificial Intelligence & Machine Learning
-* Git & Open Source Collaboration
