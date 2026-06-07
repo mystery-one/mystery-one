@@ -1,7 +1,9 @@
 # 💫 About Me
 
 🔭 I’m currently learning Power BI and data visualization techniques
+
 🌱 Exploring AI, Machine Learning, and Analytics tools
+
 🤝 All of my projects are available on GitHub
 
 # 🌐 Socials
