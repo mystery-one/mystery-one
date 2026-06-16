@@ -1,7 +1,9 @@
 # 💫 About Me
 
 🔭 AI & ML Engineer focused on building practical intelligent systems using Python, TensorFlow, and OpenCV.
+
 🌱 Experienced in machine learning, deep learning, and computer vision projects with real-world applications.
+
 🤝 Passionate about solving complex problems through scalable software and data-driven solutions.
 
 
